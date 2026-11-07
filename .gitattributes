@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.wav binary
+*.flac binary
+*.ogg binary
+*.png binary
+*.joblib binary
